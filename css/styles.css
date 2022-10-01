@@ -505,6 +505,7 @@ header {
   width: 100%;
 
   transition: border var(--animation), fill var(--animation);
+  pointer-events: none;
 }
 
 .label-input:hover,
