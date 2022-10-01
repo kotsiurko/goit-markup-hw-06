@@ -449,6 +449,11 @@ header {
   background-color: var(--white-color);
 }
 
+.modal-btn:hover,
+.modal-btn:focus {
+  fill: var(--accent-color);
+}
+
 /* FORM */
 
 .register-title {
